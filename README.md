@@ -1,1 +1,1 @@
-# Hackathon-Milestone-1-and-2
+# Hackathon_Milestones
